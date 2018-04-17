@@ -3,7 +3,7 @@ div {
     border: 2px solid black;
     box-shadow: 3px 3px 3px gray;
     margin: auto;
-
+    background-color: gray;
 }
 
 h1, p {
@@ -16,4 +16,6 @@ h1, p {
 
 h1 {
     font-weight: bold;
+    color: red;
+    background-color: black;
 }
